@@ -1,0 +1,511 @@
+TResources
+v6
+r1
+cCheck dependencies
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/mapbox.png Map/Resources/mapbox.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/mapbox@2x.png Map/Resources/mapbox@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleSmall.png Map/Resources/HeadingAngleSmall.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskLarge.png Map/Resources/HeadingAngleMaskLarge.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskMedium@2x.png Map/Resources/HeadingAngleMaskMedium@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskMedium.png Map/Resources/HeadingAngleMaskMedium.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/Compass@2x.png Map/Resources/Compass@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleSmall@2x.png Map/Resources/HeadingAngleSmall@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/LoadingTile.png Map/Resources/LoadingTile.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/mapbox-logo.png Map/Resources/mapbox-logo.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingDot.png Map/Resources/TrackingDot.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingDot@2x.png Map/Resources/TrackingDot@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingDotHalo.png Map/Resources/TrackingDotHalo.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingDotHalo@2x.png Map/Resources/TrackingDotHalo@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationMaskLandscape@2x.png Map/Resources/TrackingLocationMaskLandscape@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingHeadingMaskLandscape@2x.png Map/Resources/TrackingHeadingMaskLandscape@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingHeadingMask@2x.png Map/Resources/TrackingHeadingMask@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingHeading.png Map/Resources/TrackingHeading.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationMask.png Map/Resources/TrackingLocationMask.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/LoadingTile6.png Map/Resources/LoadingTile6.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingHeading@2x.png Map/Resources/TrackingHeading@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingHeadingMask.png Map/Resources/TrackingHeadingMask.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocation.png Map/Resources/TrackingLocation.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocation@2x.png Map/Resources/TrackingLocation@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationOffMask.png Map/Resources/TrackingLocationOffMask.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationOffMaskLandscape@2x.png Map/Resources/TrackingLocationOffMaskLandscape@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationMask@2x.png Map/Resources/TrackingLocationMask@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/Compass.png Map/Resources/Compass.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskSmall.png Map/Resources/HeadingAngleMaskSmall.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleLarge.png Map/Resources/HeadingAngleLarge.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleLarge@2x.png Map/Resources/HeadingAngleLarge@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskLarge@2x.png Map/Resources/HeadingAngleMaskLarge@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMedium.png Map/Resources/HeadingAngleMedium.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMedium@2x.png Map/Resources/HeadingAngleMedium@2x.png
+cCpResource Map/Resources/examples.map-z2effxa8.json /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/examples.map-z2effxa8.json
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskSmall@2x.png Map/Resources/HeadingAngleMaskSmall@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/mapbox-logo@2x.png Map/Resources/mapbox-logo@2x.png
+cCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationOffMask@2x.png Map/Resources/TrackingLocationOffMask@2x.png
+cTouch /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/Compass.png
+c0000000053710A9C00000000000006C8
+t1399917212
+s1736
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/Compass@2x.png
+c0000000053710A9C0000000000000948
+t1399917212
+s2376
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/HeadingAngleLarge.png
+c0000000053710A9C0000000000000E2C
+t1399917212
+s3628
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/HeadingAngleLarge@2x.png
+c0000000053710A9C0000000000002784
+t1399917212
+s10116
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/HeadingAngleMaskLarge.png
+c0000000053710A9C0000000000000D7A
+t1399917212
+s3450
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/HeadingAngleMaskLarge@2x.png
+c0000000053710A9C0000000000002F11
+t1399917212
+s12049
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/HeadingAngleMaskMedium.png
+c0000000053710A9C00000000000008BF
+t1399917212
+s2239
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/HeadingAngleMaskMedium@2x.png
+c0000000053710A9C00000000000018D3
+t1399917212
+s6355
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/HeadingAngleMaskSmall.png
+c0000000053710A9C00000000000006D0
+t1399917212
+s1744
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/HeadingAngleMaskSmall@2x.png
+c0000000053710A9C00000000000012DB
+t1399917212
+s4827
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/HeadingAngleMedium.png
+c0000000053710A9C00000000000009DA
+t1399917212
+s2522
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/HeadingAngleMedium@2x.png
+c0000000053710A9C0000000000001AA5
+t1399917212
+s6821
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/HeadingAngleSmall.png
+c0000000053710A9C0000000000000AA7
+t1399917212
+s2727
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/HeadingAngleSmall@2x.png
+c0000000053710A9C0000000000001F1F
+t1399917212
+s7967
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/LoadingTile.png
+c0000000053710A9C0000000000000B44
+t1399917212
+s2884
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/LoadingTile6.png
+c0000000053710A9C0000000000000B21
+t1399917212
+s2849
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingDot.png
+c0000000053710A9C000000000000035C
+t1399917212
+s860
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingDot@2x.png
+c0000000053710A9C0000000000000953
+t1399917212
+s2387
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingDotHalo.png
+c0000000053710A9C0000000000002F07
+t1399917212
+s12039
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingDotHalo@2x.png
+c0000000053710A9C0000000000006991
+t1399917212
+s27025
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingHeading.png
+c0000000053710A9C00000000000002B3
+t1399917212
+s691
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingHeading@2x.png
+c0000000053710A9C0000000000000664
+t1399917212
+s1636
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingHeadingMask.png
+c0000000053710A9C0000000000000189
+t1399917212
+s393
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingHeadingMask@2x.png
+c0000000053710A9C00000000000002A7
+t1399917212
+s679
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingHeadingMaskLandscape@2x.png
+c0000000053710A9C000000000000022D
+t1399917212
+s557
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingLocation.png
+c0000000053710A9C000000000000019E
+t1399917212
+s414
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingLocation@2x.png
+c0000000053710A9C0000000000000358
+t1399917212
+s856
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingLocationMask.png
+c0000000053710A9C0000000000000138
+t1399917212
+s312
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingLocationMask@2x.png
+c0000000053710A9C0000000000000242
+t1399917212
+s578
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingLocationMaskLandscape@2x.png
+c0000000053710A9C0000000000000242
+t1399917212
+s578
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingLocationOffMask.png
+c0000000053710A9C0000000000000165
+t1399917212
+s357
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingLocationOffMask@2x.png
+c0000000053710A9C00000000000002B5
+t1399917212
+s693
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/TrackingLocationOffMaskLandscape@2x.png
+c0000000053710A9C00000000000002B5
+t1399917212
+s693
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/examples.map-z2effxa8.json
+c0000000053710A9C00000000000002D9
+t1399917212
+s729
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/mapbox-logo.png
+c0000000053710A9C00000000000031BA
+t1399917212
+s12730
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/mapbox-logo@2x.png
+c0000000053710A9C00000000000060F5
+t1399917212
+s24821
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/mapbox.png
+c0000000053710A9C000000000000173B
+t1399917212
+s5947
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/MapView/Map/Resources/mapbox@2x.png
+c0000000053710A9C00000000000029D9
+t1399917212
+s10713
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle
+t1399917219
+s1360
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/Compass.png
+t1399917219
+s1187
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/Compass@2x.png
+t1399917219
+s2143
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleLarge.png
+t1399917219
+s3239
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleLarge@2x.png
+t1399917219
+s7191
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskLarge.png
+t1399917219
+s2394
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskLarge@2x.png
+t1399917219
+s6692
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskMedium.png
+t1399917219
+s1718
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskMedium@2x.png
+t1399917219
+s4107
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskSmall.png
+t1399917219
+s1320
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskSmall@2x.png
+t1399917219
+s3202
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMedium.png
+t1399917219
+s2366
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMedium@2x.png
+t1399917219
+s5257
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleSmall.png
+t1399917219
+s2254
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleSmall@2x.png
+t1399917219
+s4986
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/LoadingTile.png
+t1399917219
+s1906
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/LoadingTile6.png
+t1399917219
+s2016
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingDot.png
+t1399917219
+s849
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingDot@2x.png
+t1399917219
+s2480
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingDotHalo.png
+t1399917219
+s15224
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingDotHalo@2x.png
+t1399917219
+s32226
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingHeading.png
+t1399917219
+s1110
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingHeading@2x.png
+t1399917219
+s3093
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingHeadingMask.png
+t1399917219
+s269
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingHeadingMask@2x.png
+t1399917219
+s550
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingHeadingMaskLandscape@2x.png
+t1399917219
+s426
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocation.png
+t1399917219
+s356
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocation@2x.png
+t1399917219
+s593
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationMask.png
+t1399917219
+s227
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationMask@2x.png
+t1399917219
+s435
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationMaskLandscape@2x.png
+t1399917219
+s435
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationOffMask.png
+t1399917219
+s267
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationOffMask@2x.png
+t1399917219
+s540
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationOffMaskLandscape@2x.png
+t1399917219
+s540
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/examples.map-z2effxa8.json
+t1399917219
+s729
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/mapbox-logo.png
+t1399917219
+s10520
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/mapbox-logo@2x.png
+t1399917219
+s18762
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/mapbox.png
+t1399917219
+s5894
+
+N/Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/mapbox@2x.png
+t1399917219
+s10515
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2b16e3991e2eb941^4b3bf1991e2eb941^---0#1#1#--18"Check dependencies36"7E31C779-65A9-4843-9F23-FB24F8633ABE-
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/Compass.png Map/Resources/Compass.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/Compass@2x.png Map/Resources/Compass@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleLarge.png Map/Resources/HeadingAngleLarge.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleLarge@2x.png Map/Resources/HeadingAngleLarge@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskLarge.png Map/Resources/HeadingAngleMaskLarge.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskLarge@2x.png Map/Resources/HeadingAngleMaskLarge@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskMedium.png Map/Resources/HeadingAngleMaskMedium.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskMedium@2x.png Map/Resources/HeadingAngleMaskMedium@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskSmall.png Map/Resources/HeadingAngleMaskSmall.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMaskSmall@2x.png Map/Resources/HeadingAngleMaskSmall@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMedium.png Map/Resources/HeadingAngleMedium.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleMedium@2x.png Map/Resources/HeadingAngleMedium@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleSmall.png Map/Resources/HeadingAngleSmall.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/HeadingAngleSmall@2x.png Map/Resources/HeadingAngleSmall@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/LoadingTile.png Map/Resources/LoadingTile.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/LoadingTile6.png Map/Resources/LoadingTile6.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingDot.png Map/Resources/TrackingDot.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingDot@2x.png Map/Resources/TrackingDot@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingDotHalo.png Map/Resources/TrackingDotHalo.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingDotHalo@2x.png Map/Resources/TrackingDotHalo@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingHeading.png Map/Resources/TrackingHeading.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingHeading@2x.png Map/Resources/TrackingHeading@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingHeadingMask.png Map/Resources/TrackingHeadingMask.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingHeadingMask@2x.png Map/Resources/TrackingHeadingMask@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingHeadingMaskLandscape@2x.png Map/Resources/TrackingHeadingMaskLandscape@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocation.png Map/Resources/TrackingLocation.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocation@2x.png Map/Resources/TrackingLocation@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationMask.png Map/Resources/TrackingLocationMask.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationMask@2x.png Map/Resources/TrackingLocationMask@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationMaskLandscape@2x.png Map/Resources/TrackingLocationMaskLandscape@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationOffMask.png Map/Resources/TrackingLocationOffMask.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationOffMask@2x.png Map/Resources/TrackingLocationOffMask@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/TrackingLocationOffMaskLandscape@2x.png Map/Resources/TrackingLocationOffMaskLandscape@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/mapbox-logo.png Map/Resources/mapbox-logo.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/mapbox-logo@2x.png Map/Resources/mapbox-logo@2x.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/mapbox.png Map/Resources/mapbox.png
+r0
+
+CCopyPNGFile /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/mapbox@2x.png Map/Resources/mapbox@2x.png
+r0
+
+CCpResource Map/Resources/examples.map-z2effxa8.json /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle/examples.map-z2effxa8.json
+r0
+
+CTouch /Users/tommypeps/Documents/iphoneWorkSpace/biciEMT/Pods/Mapbox/Resources/Mapbox.bundle
+r0
+
