@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name      = "mapbox-ios-sdk"
+  s.name      = "Mapbox-iOS-SDK"
   s.version   = "1.6.4"
   s.summary   = "iOS Maps SDK"
   s.authors   = { "Nangos." => "http://www.nangos.io", "Sam Njoroge" => "sam@nangos.io" }
