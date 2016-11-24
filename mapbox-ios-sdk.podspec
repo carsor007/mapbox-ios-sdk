@@ -10,7 +10,5 @@ Pod::Spec.new do |s|
   
   s.source_files = "mapbox-ios-sdk/**/*.{h,m}"
 
-  s.frameworks = 'Foundation', 'CoreFoundation', 'SystemConfiguration', 'MobileCoreServices'
 
-  s.requires_arc = true
 end
