@@ -9,6 +9,7 @@ Pod::Spec.new do |s|
   s.platform          = :ios, '7.0'
   
   s.source_files = "Proj4", "MapView", "MapView/Map/**/*.{h,m}"
+  s.source_files = "MapView/*.{h,m}"
 
 
 end
