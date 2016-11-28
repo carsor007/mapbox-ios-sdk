@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.license   = 'LICENSE*.*'
   s.platform          = :ios, '7.0'
   
-  s.source_files = "mapbox-ios-sdk/**/*.{h,m}"
+  s.source_files = "MapView", "Map/**/*.{h,m}"
 
 
 end
